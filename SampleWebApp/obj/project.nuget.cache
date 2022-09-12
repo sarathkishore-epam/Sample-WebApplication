@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qcFHtOg0N9y5tfVt0H4Y848t6m8pSyJDPuzEWvYYevy2QfUX0E5YbNHGU5gYzNvigHVxmVmVhb5Y/HIqM3Fcvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DhivakarJeganathan\\Desktop\\Greens\\DevOps\\FirstProject\\SampleWebApp\\SampleWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DhivakarJeganathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\DhivakarJeganathan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\DhivakarJeganathan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\DhivakarJeganathan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

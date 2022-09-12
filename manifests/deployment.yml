@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: epamproject
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: epamproject
+  template:
+    metadata:
+      labels:
+        app: epamproject
+    spec:
+      containers:
+        - name: epamproject
+          image: docker.io/dhivakarj/samplewebproject0506
+          ports:
+          - containerPort: 80
